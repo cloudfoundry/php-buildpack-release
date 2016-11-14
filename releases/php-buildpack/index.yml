@@ -2,4 +2,6 @@
 builds:
   19673eff-c50e-4068-bcc7-5d88ad9eb086:
     version: 4.3.21
+  bab85732-f85b-49bf-ac63-a8fe035164a9:
+    version: 4.3.22
 format-version: '2'
