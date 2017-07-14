@@ -1,5 +1,5 @@
 ---
-php-buildpack/php-buildpack-v4.3.37.zip:
-  object_id: 239b40ff-87c0-4fd5-92cc-65f539d43b65
-  sha: 10276f1df70ca440195d2edf01fca77ded2f4aa6
-  size: 289159
+php-buildpack/php-buildpack-v4.3.38.zip:
+  object_id: eab0490d-4088-4e76-93c8-9cdb5cdc7e8d
+  sha: eccfb4d348e69e3274b53bd7d2f7e3cc4c62f18f
+  size: 289286
