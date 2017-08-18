@@ -34,4 +34,6 @@ builds:
     version: 4.3.38
   ee91490c-0ae4-467f-b9b8-13a7fa805982:
     version: 4.3.39
+  cce20ad7-c07e-4090-b8f6-bf3ff3819397:
+    version: 4.3.40
 format-version: '2'
