@@ -40,4 +40,6 @@ builds:
     version: 4.3.41
   6b5a1a30-81c6-4326-9449-a21a68ec080d:
     version: 4.3.42
+  6e27754b-812c-43d0-9f6f-b7a3095dd8a4:
+    version: 4.3.43
 format-version: '2'
