@@ -1,4 +1,4 @@
-php-buildpack/php_buildpack-cflinuxfs3-v4.4.0.zip:
-  size: 4975757
-  object_id: efe8d0db-f9d2-4014-426b-14016529c464
-  sha: sha256:2257de5bf3e3b2418aa4a2fa62bced71ad04b1a3670855bc685293296a970da0
+php-buildpack/php_buildpack-cflinuxfs3-v4.4.1.zip:
+  size: 4970413
+  object_id: 520cfb68-f9ea-4a72-69fe-20711fc202ad
+  sha: sha256:f2bed200848e7c8491ed65b4629b971537adc7d97ba5fb6b7f2eb8bda865ce32
