@@ -11,6 +11,8 @@ builds:
     version: 4.3.44
   0c87e398-733c-411a-46dd-f7c7a7b9c9cc:
     version: 4.3.49
+  0d46537e-ca51-423b-6d0c-72a4b90a1d90:
+    version: 4.4.8
   0fa23184-e04b-40be-8d56-c3d373dffb3d:
     version: 4.3.26
   19673eff-c50e-4068-bcc7-5d88ad9eb086:
