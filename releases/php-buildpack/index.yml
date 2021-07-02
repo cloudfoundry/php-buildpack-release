@@ -17,6 +17,8 @@ builds:
     version: 4.4.8
   0f1a0c01-c9ac-40c8-7ae6-441810bc66f5:
     version: 4.4.34
+  0f640a80-4d20-45cd-4964-fdf8badb99e0:
+    version: 4.4.43
   0fa23184-e04b-40be-8d56-c3d373dffb3d:
     version: 4.3.26
   10569b79-6299-498e-4546-394d5bdb1313:
