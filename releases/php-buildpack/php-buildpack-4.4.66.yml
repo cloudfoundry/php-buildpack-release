@@ -1,0 +1,21 @@
+name: php-buildpack
+version: 4.4.66
+commit_hash: 1b20cca
+uncommitted_changes: false
+jobs:
+- name: php-buildpack
+  version: e2dee7ca6bb3610d6d23696ab441dd9fe2b9b56e2b44f0f8ad8c41bcc06cbd5a
+  fingerprint: e2dee7ca6bb3610d6d23696ab441dd9fe2b9b56e2b44f0f8ad8c41bcc06cbd5a
+  sha1: sha256:3fac910c31b3626b31ddf6a658f255cde9ee4152ab6b9201943995dce7d184aa
+  packages:
+  - php-buildpack-cflinuxfs3
+packages:
+- name: php-buildpack-cflinuxfs3
+  version: f892bec211795d38464ce6d6c4cf4a2a44beaa983a8933c49f661e27be0adb57
+  fingerprint: f892bec211795d38464ce6d6c4cf4a2a44beaa983a8933c49f661e27be0adb57
+  sha1: sha256:2b0ecb0ea4e1793723702152975c889a4f8cba08082f098de9c6349955e0df56
+  dependencies: []
+license:
+  version: c8c627d579583321ff263581b6202a6ac73a5017e17a09df2d3081abe9da1ce4
+  fingerprint: c8c627d579583321ff263581b6202a6ac73a5017e17a09df2d3081abe9da1ce4
+  sha1: sha256:3ab1a1a94e2caf4a1a03d050d33a162cc3164ecee5adcdcaa0f754fbd24a84be
