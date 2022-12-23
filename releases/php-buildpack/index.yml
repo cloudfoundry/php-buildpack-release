@@ -37,6 +37,8 @@ builds:
     version: 4.4.9
   24e563e3-4bb4-43f1-4e3e-98676208b551:
     version: 4.3.82
+  26e9dd15-80ae-4970-4a5c-d513ab78d233:
+    version: 4.5.0
   275e3bab-015d-4dab-bef5-7dbe675fab06:
     version: 4.3.25
   27c3ec72-a1bb-49a3-4273-c3befb1569aa:
