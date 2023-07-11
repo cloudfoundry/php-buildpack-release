@@ -1,8 +1,8 @@
-php-buildpack/php_buildpack-cflinuxfs3-v4.6.6.zip:
-  size: 8305432
-  object_id: ede6fd3e-549c-4e6d-661c-20a1ef6543a0
-  sha: sha256:a53f9a4dc78f16df65634c6aa6d8f5e4aceb60919de9e843726e2ea55d2b5686
-php-buildpack/php_buildpack-cflinuxfs4-v4.6.6.zip:
-  size: 8305411
-  object_id: fb7d7ce0-17f2-4a34-4909-30f5e80ec0d4
-  sha: sha256:be98307fd629d83b0867a8ae939b0c027f72a11ec515e1253209934564dc854f
+php-buildpack/php_buildpack-cflinuxfs3-v4.6.7.zip:
+  size: 8305267
+  object_id: b0a52415-a3bd-459d-5929-85b32a9312a7
+  sha: sha256:66ccbe5a4e3b7f73bd773e79ffab5c87283599d99dee9c339d778064901f28f2
+php-buildpack/php_buildpack-cflinuxfs4-v4.6.7.zip:
+  size: 8305239
+  object_id: b7c44165-53b2-4be5-7f1a-f375d0134c0a
+  sha: sha256:2eae26e3cf54c49584a02ee5a910581210b67bf5c13268ff1d7060417476f6a9
