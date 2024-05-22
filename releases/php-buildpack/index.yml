@@ -231,6 +231,8 @@ builds:
     version: 4.3.56
   f91bbaa0-4ae4-4e43-40b9-a1fc71ef51e0:
     version: 4.6.3
+  fa8088ac-25d6-4fa5-6900-88440c314f17:
+    version: 4.6.19
   fe2cb465-8f7c-4aa0-449e-a41597d88172:
     version: 4.4.32
 format-version: "2"
