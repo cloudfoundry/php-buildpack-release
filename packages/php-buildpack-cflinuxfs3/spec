@@ -1,4 +1,0 @@
----
-name: php-buildpack-cflinuxfs3
-files:
-- php-buildpack/php?buildpack-cflinuxfs3-v*.zip
