@@ -3,6 +3,7 @@ name: php-buildpack
 templates: {}
 
 packages:
+- php-buildpack-cflinuxfs5
 - php-buildpack-cflinuxfs4
 
 properties: {}
