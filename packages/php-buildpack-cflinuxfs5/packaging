@@ -1,0 +1,2 @@
+    set -e -x
+    cp php-buildpack/php?buildpack-*.zip ${BOSH_INSTALL_TARGET}

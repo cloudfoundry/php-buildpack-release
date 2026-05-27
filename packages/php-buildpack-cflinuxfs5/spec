@@ -1,0 +1,4 @@
+---
+name: php-buildpack-cflinuxfs5
+files:
+- php-buildpack/php?buildpack-cflinuxfs5-*.zip
